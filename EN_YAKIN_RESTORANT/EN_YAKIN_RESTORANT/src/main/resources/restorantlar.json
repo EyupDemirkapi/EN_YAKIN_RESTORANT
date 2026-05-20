@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Boga Kebap Sarayi",
+    "type": "Kebap",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "x": 220,
+    "y": 196,
+    "rating": 4.8,
+    "features": "WiFi-Otopark"
+  },
+  {
+    "name": "Moda Sahil Cafe",
+    "type": "Cafe",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "x": 160,
+    "y": 313,
+    "rating": 4.5,
+    "features": "WiFi-Dış Mekan"
+  },
+  {
+    "name": "Göztepe Pizza Dünyasi",
+    "type": "Pizza",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "x": 422,
+    "y": 318,
+    "rating": 4.2,
+    "features": "Otopark"
+  },
+  {
+    "name": "Suadiye Gurme Burger",
+    "type": "Burger",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "x": 529,
+    "y": 510,
+    "rating": 4.7,
+    "features": "WiFi-Dış Mekan"
+  },
+  {
+    "name": "Bostanci Balikçisi",
+    "type": "Balik",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "x": 638,
+    "y": 505,
+    "rating": 4.4,
+    "features": "Otopark-Dış Mekan"
+  },
+  {
+    "name": "Akaretler Kahvecisi",
+    "type": "Cafe",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "x": 293,
+    "y": 554,
+    "rating": 4.6,
+    "features": "WiFi-Dış Mekan"
+  },
+  {
+    "name": "Ortaköy Kumpircisi",
+    "type": "Fast Food",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "x": 457,
+    "y": 422,
+    "rating": 4.3,
+    "features": "Dış Mekan"
+  },
+  {
+    "name": "Bebek Sahil Restoran",
+    "type": "Dünya Mutfağı",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "x": 532,
+    "y": 218,
+    "rating": 4.9,
+    "features": "WiFi-Otopark-Dış Mekan"
+  },
+  {
+    "name": "Fikirtepe Dönercisi",
+    "type": "Döner",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "x": 314,
+    "y": 185,
+    "rating": 4.6,
+    "features": "Otopark-Dış Mekan"
+  },
+  {
+    "name": "Caddebostan Dondurmacisi",
+    "type": "Dondurma",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "x": 401,
+    "y": 410,
+    "rating": 4.7,
+    "features": "WiFi-Dış Mekan"
+  },
+  {
+    "name": "Kuruçeşme Wafflecisi",
+    "type": "Waffle",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "x": 468,
+    "y": 388,
+    "rating": 4.5,
+    "features": "WiFi-Dış Mekan"
+  },
+  {
+    "name": "Nispetiye Sushi",
+    "type": "Sushi",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "x": 415,
+    "y": 310,
+    "rating": 4.8,
+    "features": "WiFi-Otopark"
+  }
+]

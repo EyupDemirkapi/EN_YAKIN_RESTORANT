@@ -1,0 +1,13 @@
+[
+  {
+    "username": "abdullah",
+    "password": "4444",
+    "securityQuestion": "En sevdiğiniz yemek?",
+    "securityAnswer": "döner",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "x": 347.62105263157895,
+    "y": 331.2,
+    "favRestaurants": "Göztepe Pizza Dünyasi"
+  }
+]
