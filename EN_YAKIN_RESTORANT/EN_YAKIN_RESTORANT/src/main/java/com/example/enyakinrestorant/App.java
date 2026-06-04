@@ -332,6 +332,9 @@ public class App extends Application {
         else if (cbPuan.getValue().contains("4.7")) minPuanLimit = 4.7;
 
         for (var s : sonuclar) {
+            if (!s.getRestorant().getDistrict().equalsIgnoreCase(aktifKullanici.getDistrict())) {
+                continue;
+            }
             boolean isimUygun = aramaKelimesi.isEmpty() || s.getRestorant().getName().toLowerCase().contains(aramaKelimesi.toLowerCase());
             boolean puanUygun = s.getRestorant().getRating() >= minPuanLimit;
             if (isimUygun && puanUygun) filtrelenmis.add(s);
