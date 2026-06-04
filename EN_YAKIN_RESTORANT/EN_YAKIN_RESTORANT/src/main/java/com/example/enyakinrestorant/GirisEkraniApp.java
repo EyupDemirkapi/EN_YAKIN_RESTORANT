@@ -115,7 +115,7 @@ public class GirisEkraniApp extends Application {
 
         Label baslik = new Label("Yeni Hesap Oluştur");
         baslik.setFont(Font.font("Arial", FontWeight.BOLD, 22));
-        baslik.setTextFill(Color.web("#2c3e50"));
+        baslik.setTextFill(Color.web("#ffffff"));
 
         GridPane form = new GridPane();
         form.setVgap(10);
@@ -191,7 +191,7 @@ public class GirisEkraniApp extends Application {
 
         Label baslik = new Label("Şifre Sıfırlama");
         baslik.setFont(Font.font("Arial", FontWeight.BOLD, 22));
-        baslik.setTextFill(Color.web("#2c3e50"));
+        baslik.setTextFill(Color.web("#ffffff"));
 
         GridPane form = new GridPane();
         form.setVgap(10);
