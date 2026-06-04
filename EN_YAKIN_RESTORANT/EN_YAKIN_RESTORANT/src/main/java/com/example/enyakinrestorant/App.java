@@ -706,7 +706,7 @@ public class App extends Application {
         String borderRenk = koyuTema ? "#4A5568" : "#CBD5E0";
         String aktifRenk = koyuTema ? "#4FACFE" : "#3498DB";
 
-        File bgFile = FileHelper.findFile("src/main/resources/arkaplan.jpg");
+        File bgFile = FileHelper.findFile("src/main/resources/arkaplan.png");
         if (bgFile.exists()) {
             BackgroundImage bg = new BackgroundImage(
                     new Image(bgFile.toURI().toString()),

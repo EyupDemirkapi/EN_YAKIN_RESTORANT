@@ -38,12 +38,13 @@ public class GirisEkraniApp extends Application {
         VBox root = yeniTasarlanmisKutu();
 
         Label baslik = new Label("LEZZET ROTASI");
-        baslik.setFont(Font.font("Arial", FontWeight.BOLD, 26));
-        baslik.setTextFill(Color.web("#2c3e50"));
+        baslik. setFont(Font.font("Brush Script MT", 36));
+        baslik.setTextFill(Color.web("#ffffff"));
 
         Label altBaslik = new Label("En Yakın Restoranı Keşfet");
-        altBaslik.setFont(Font.font("Arial", FontWeight.NORMAL, 14));
-        altBaslik.setTextFill(Color.web("#7f8c8d"));
+        altBaslik.setFont(Font.font("Brush Script MT", 14));
+        altBaslik.setTextFill(Color.web("#ffffff"));
+
 
         GridPane form = new GridPane();
         form.setVgap(10);
@@ -264,7 +265,7 @@ public class GirisEkraniApp extends Application {
         kutu.setPadding(new Insets(30));
         kutu.setAlignment(Pos.CENTER);
 
-        File bgFile = FileHelper.findFile("src/main/resources/arkaplan.jpg");
+        File bgFile = FileHelper.findFile("src/main/resources/girisekrani.png");
         if (bgFile.exists()) {
             BackgroundImage bg = new BackgroundImage(
                     new Image(bgFile.toURI().toString()),
